@@ -1,0 +1,7 @@
+README.md
+setup.py
+webschaber/__init__.py
+webschaber.egg-info/PKG-INFO
+webschaber.egg-info/SOURCES.txt
+webschaber.egg-info/dependency_links.txt
+webschaber.egg-info/top_level.txt
